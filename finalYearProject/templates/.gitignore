@@ -1,0 +1,15 @@
+# Ignore the database file
+instance/hostel_leave.db
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment file
+.env
+
+# VSCode settings folder
+.vscode/
+
+# Mac system files
+.DS_Store
